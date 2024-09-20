@@ -1,0 +1,12 @@
+C:\Users\AA\Desktop\licorera\lib_entidades\bin\Debug\net6.0\lib_entidades.deps.json
+C:\Users\AA\Desktop\licorera\lib_entidades\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\AA\Desktop\licorera\lib_entidades\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.AssemblyInfo.cs
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.dll
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\refint\lib_entidades.dll
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\lib_entidades.pdb
+C:\Users\AA\Desktop\licorera\lib_entidades\obj\Debug\net6.0\ref\lib_entidades.dll

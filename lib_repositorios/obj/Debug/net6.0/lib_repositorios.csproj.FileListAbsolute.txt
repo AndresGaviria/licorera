@@ -1,0 +1,15 @@
+C:\Users\AA\Desktop\licorera\lib_repositorios\bin\Debug\net6.0\lib_repositorios.deps.json
+C:\Users\AA\Desktop\licorera\lib_repositorios\bin\Debug\net6.0\lib_repositorios.dll
+C:\Users\AA\Desktop\licorera\lib_repositorios\bin\Debug\net6.0\lib_repositorios.pdb
+C:\Users\AA\Desktop\licorera\lib_repositorios\bin\Debug\net6.0\lib_entidades.dll
+C:\Users\AA\Desktop\licorera\lib_repositorios\bin\Debug\net6.0\lib_entidades.pdb
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.csproj.CopyComplete
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.dll
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\refint\lib_repositorios.dll
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\lib_repositorios.pdb
+C:\Users\AA\Desktop\licorera\lib_repositorios\obj\Debug\net6.0\ref\lib_repositorios.dll
